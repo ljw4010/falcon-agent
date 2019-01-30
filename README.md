@@ -28,6 +28,8 @@ I use [linux-dash](https://github.com/afaqurk/linux-dash) as the page theme.
 - heartbeat: heartbeat server rpc address
 - transfer: transfer rpc address
 - ignore: the metrics should ignore
+- kafka： kafka info
+- zabbix：zabbix info
 
 # Auto deployment
 
